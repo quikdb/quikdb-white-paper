@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc=self.webpackChunkdoc||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/quikdb-white-paper/blog","blogTitle":"Blog","authorsListPath":"/quikdb-white-paper/blog/authors"}')}}]);
